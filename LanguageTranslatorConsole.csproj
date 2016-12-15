@@ -49,6 +49,7 @@
     <Compile Include="ILanguageTranslatorService.cs" />
     <Compile Include="IWatsonHttpService.cs" />
     <Compile Include="LanguageKey.cs" />
+    <Compile Include="LanguageTranslatorService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TranslateRequest.cs" />
