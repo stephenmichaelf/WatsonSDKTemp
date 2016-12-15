@@ -1,0 +1,8 @@
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\bin\Debug\LanguageTranslatorConsole.exe.config
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\bin\Debug\LanguageTranslatorConsole.exe
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\bin\Debug\LanguageTranslatorConsole.pdb
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\bin\Debug\Newtonsoft.Json.dll
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\bin\Debug\Newtonsoft.Json.xml
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\obj\Debug\LanguageTranslatorConsole.csprojResolveAssemblyReference.cache
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\obj\Debug\LanguageTranslatorConsole.exe
+D:\OpenSource\csharp-sdk-base\LanguageTranslatorConsole\obj\Debug\LanguageTranslatorConsole.pdb
